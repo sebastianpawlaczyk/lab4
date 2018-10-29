@@ -1,0 +1,36 @@
+   <mid-rate currency="Australian Dollar" units="1" code="AUD">2.6638</mid-rate>  
+   <mid-rate currency="Baht" units="1" code="THB">0.1145</mid-rate>  
+   <mid-rate currency="Brazilian Real" units="1" code="BRL">1.0116</mid-rate>  
+   <mid-rate currency="Bulgarian Lev" units="1" code="BGN">2.1969</mid-rate>  
+   <mid-rate currency="Canadian Dollar" units="1" code="CAD">2.8628</mid-rate>  
+   <mid-rate currency="Chilean Peso" units="100" code="CLP">05537</mid-rate>  
+   <mid-rate currency="Czech Koruna" units="1" code="CZK">0.1662</mid-rate>  
+   <mid-rate currency="Danish Krone" units="1" code="DKK">0.5759</mid-rate>  
+   <mid-rate currency="Euro" units="1" code="EUR">4.2966</mid-rate>  
+   <mid-rate currency="Forint" units="100" code="HUF">1.3344</mid-rate>  
+   <mid-rate currency="Hong Kong Dollar" units="1" code="HKD">0.4759</mid-rate>  
+   <mid-rate currency="Hryvnia" units="1" code="UAH">0.1331</mid-rate>  
+   <mid-rate currency="Iceland Krona" units="100" code="ISK">3.1316</mid-rate>  
+   <mid-rate currency="Indian Rupee" units="100" code="INR">5.0772</mid-rate>  
+   <mid-rate currency="Kuna" units="1" code="HRK">0.5790</mid-rate>  
+   <mid-rate currency="Malaysian Ringgit" units="1" code="MYR">0.8971</mid-rate>  
+   <mid-rate currency="Mexican Peso" units="1" code="MXN">0.1977</mid-rate>  
+   <mid-rate currency="New Israeli Shekel" units="1" code="ILS">1.0222</mid-rate>  
+   <mid-rate currency="New Zealand Dollar" units="1" code="NZD">2.4500</mid-rate>  
+   <mid-rate currency="Norwegian Krone" units="1" code="NOK">0.4541</mid-rate>  
+   <mid-rate currency="Polish Zloty" units="1" code="PLN">1.0</mid-rate>  
+   <mid-rate currency="Philippine Piso" units="1" code="PHP">0.0692</mid-rate>  
+   <mid-rate currency="Pound Sterling" units="1" code="GBP">4.8906</mid-rate>  
+   <mid-rate currency="Rand" units="1" code="ZAR">0.2629</mid-rate>  
+   <mid-rate currency="Romanian Leu" units="1" code="RON">0.9208</mid-rate>  
+   <mid-rate currency="Rupiah" units="10000" code="IDR">2.4551</mid-rate>  
+   <mid-rate currency="Russian Ruble" units="1" code="RUB">0.0569</mid-rate>  
+   <mid-rate currency="Singapore Dollar" units="1" code="SGD">2.7075</mid-rate>  
+   <mid-rate currency="Swedish Krona" units="1" code="SEK">0.4162</mid-rate>  
+   <mid-rate currency="Swiss Franc" units="1" code="CHF">3.7543</mid-rate>  
+   <mid-rate currency="Turkish Lira" units="1" code="TRY">0.6724</mid-rate>  
+   <mid-rate currency="US Dollar" units="1" code="USD">3.7302</mid-rate>  
+   <mid-rate currency="Won" units="100" code="KRW">0.3289</mid-rate>  
+   <mid-rate currency="Yen" units="100" code="JPY">3.3140</mid-rate>  
+   <mid-rate currency="Yuan Renminbi" units="1" code="CNY">0.5373</mid-rate>  
+   <mid-rate currency="SDR Int'l Monetary Fund (I.M.F.)" units="1" code="XDR">5.1978</mid-rate>  
