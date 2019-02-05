@@ -1,4 +1,4 @@
-   <mid-rate currency="Australian Dollar" units="1" code="AUD">2.6638</mid-rate>  
+   <mid-rate currency="Australian Dollar" units="1" code="AUD">2.6638</mid-rate> dupa 
    <mid-rate currency="Baht" units="1" code="THB">0.1145</mid-rate>  
    <mid-rate currency="Brazilian Real" units="1" code="BRL">1.0116</mid-rate>  
    <mid-rate currency="Bulgarian Lev" units="1" code="BGN">2.1969</mid-rate>  
